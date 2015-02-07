@@ -3,7 +3,7 @@
 Codes repository for the book {Learning Data Mining with R}
 ------
 
-Notes: 
+###Notes:<br/> 
 1. Every algorithm will be provided in five levels of difficulty. 
 (1). Level 1 is the basic form for reader to understand the algorithm in a straight way.
 (2). Level 2 is the beyond form for reader to use in work, in which the algorithm in serialized implementation, based on the ordinary available R packages.

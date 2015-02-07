@@ -1,5 +1,5 @@
 # learning-data-mining-with-r
-Codes repository for the book {Learning Data Mining with R}
+Codes repository for the book {Learning Data Mining with R}<br>
 
 Notes: 
 1. Every algorithm will be provided in five levels of difficulty. 

@@ -5,6 +5,8 @@ Codes repository for the book {Learning Data Mining with R}
 
 ###Notes:<br/> 
 1. [The book of this project can be found at the site of Packt Publishing Limited] (https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r) <br/>
+[image]: https://www.packtpub.com/sites/default/files/2103OS_mockupcover_normal_0.jpg "Learning Data Mining with R"
+
 1. Every algorithm will be provided in five levels of difficulty.<br/>
 (1). Level 1 is the basic form for reader to understand the algorithm in a straight way.<br/>
 (2). Level 2 is the beyond form for reader to use in work, in which the algorithm in serialized implementation, based on the ordinary available R packages.<br/>

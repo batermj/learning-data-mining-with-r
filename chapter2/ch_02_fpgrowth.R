@@ -80,10 +80,6 @@ IsEmpty <- function(rx){
 	return(length(rx)==0)
 }
 
-CountCntOnPath <- function(r,idx,path4idx,jdx){
-
-}
-
 GetAllPathsFromRoot <- function(r,item){
 	cntp_index <- ncol(r)
 	itemp_index <- cntp_index - 1
@@ -125,12 +121,6 @@ GetSupportCount <- function(r,item){
 	cntp_index <- ncol(r)
 	itemp_index <- cntp_index - 1
 	return( sum(r[which(r[,itemp_index]==item),cntp_index]) )
-}
-
-SetSupportCount <- function(x,c){
-}
-
-Add2Set <- function(f,x,sup4x){
 }
 
 GetMinCnt <- function(r,y){

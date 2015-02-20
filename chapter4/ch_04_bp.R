@@ -39,7 +39,7 @@ TestBPNN <- function(data){
 
 	eps <- 0.01
 	a <- 0.3
-	mc <- 0.8
+	mc <- 0.9
 	maxiter <- 2000
 	iter <- 0
  

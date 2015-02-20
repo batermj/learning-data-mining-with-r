@@ -1,0 +1,7 @@
+Size,Weight,Color,Taste
+Big,Light,Red,Good
+Small,Heavy,Red,Good
+Big,Light,Red,Bad
+Big,Light,Green,Bad
+Small,Heavy,Red,Bad
+Small,Light,Green,Good

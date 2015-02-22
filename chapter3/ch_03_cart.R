@@ -16,3 +16,5 @@ fit <- rpart(Kyphosis~Age + Number + Start,
 		split = "information"))
 
 print(fit)
+ndata=data.frame('Kyphosis'='present', 'Age'=82, 'Number'=5, 'Start'=11)
+print(predict(fit,ndata))

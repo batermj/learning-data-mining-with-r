@@ -1,0 +1,18 @@
+#clean the workspace and memory
+rm( list=ls() )
+gc()
+
+library(rpart);
+
+data <- read.csv("data/datasets003.csv", header=TRUE)
+data <- as.data.frame(data)
+
+ct <- rpart.control(xval=10, minsplit=20, cp=0.1) 
+
+fit <- rpart(Kyphosis~Age + Number + Start, 
+		data=data, 
+		method="class",control=ct,
+		parms = list(prior = c(0.65,0.35), 
+		split = "information"))
+
+print(fit)

@@ -1,7 +1,7 @@
 # learning-data-mining-with-r
 =====
 Codes repository for the book {Learning Data Mining with R}
----------
+------------
 
 ###Notes:<br/> 
 1. [The book of this project can be found at the site of Packt Publishing Limited] (https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r) <br/>

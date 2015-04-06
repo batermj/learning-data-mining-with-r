@@ -14,3 +14,5 @@ Codes repository for the book {Learning Data Mining with R}
 (5). Level 5 is the advanced form for readers to use in work, in which the algorithm in an parallelized implementation, based on my own contributed R packages to CRAN.<br/>
 
 3. Target for a brand new data mining framework
+
+[![Learning Spark](https://www.packtpub.com/sites/default/files/1692_Learning%20Data%20mining%20with%20R_cov.jpg)]

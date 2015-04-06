@@ -15,4 +15,4 @@ Codes repository for the book {Learning Data Mining with R}
 
 3. Target for a brand new data mining framework
 
-![Learning Data Mining with R] (https://www.packtpub.com/sites/default/files/1692_Learning%20Data%20mining%20with%20R_cov.jpg)
+![Learning Data Mining with R] (https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/1692_Learning%20Data%20mining%20with%20R_cov.jpg)

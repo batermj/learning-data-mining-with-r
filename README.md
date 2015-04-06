@@ -1,4 +1,4 @@
-# learning-data-mining-with-r
+# Learning Data Mining with R
 =======
 Codes repository for the book {Learning Data Mining with R}
 ------------

@@ -13,6 +13,8 @@ Codes repository for the book {Learning Data Mining with R}
 (4). Level 4 is the advanced form for readers to use in work, in which the algorithm in an parallelized implementation, based on the ordinary available R packages and solutions.<br/>
 (5). Level 5 is the advanced form for readers to use in work, in which the algorithm in an parallelized implementation, based on my own contributed R packages to CRAN.<br/>
 
+the file names for the sorce codes are suffixed with *_basic.R, *_beyond1.R, *_beyond2.R, *_advanced1.R, *_advanced2.R respectively w.r.t. above 5 levels.
+
 ##3. Target for a brand new data mining framework
 
 # Requirements

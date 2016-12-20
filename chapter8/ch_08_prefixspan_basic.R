@@ -4,7 +4,7 @@ library(utils)
 rm( list=ls() )
 gc()
 
-tbl <- read.csv("itemsets002.csv",header=FALSE)
+tbl <- read.csv("data/datasets004.csv",header=FALSE)
 print(tbl)
 
 tbl <- as.matrix(tbl)

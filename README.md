@@ -5,7 +5,7 @@ Codes repository for the book {Learning Data Mining with R}
 
 ## 1. Where you can find the book?
 
-[The book of this project can be found at the site of Packt Publishing Limited] 
+The book of this project can be found at the site of Packt Publishing Limited
 
 [百度2][2]{:target="_blank"}
 [2]: http://www.baidu.com/   "百度二下"

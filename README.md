@@ -5,7 +5,12 @@ Codes repository for the book {Learning Data Mining with R}
 
 ## 1. Where you can find the book?
 
-[The book of this project can be found at the site of Packt Publishing Limited] (https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r) (http://shop.oreilly.com/product/9781783982103.do,)<br/>
+[The book of this project can be found at the site of Packt Publishing Limited] 
+
+[Packtpub][2]{:target="_blank"}
+[2]: https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r   "Packtpub"
+
+() (http://shop.oreilly.com/product/9781783982103.do,)<br/>
 
 ## 2. Every algorithm will be provided in five levels of difficulty.<br/>
 

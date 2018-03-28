@@ -19,5 +19,5 @@ the file names for the sorce codes are suffixed with *_basic.R, *_beyond1.R, *_b
 
 # Requirements
 
-![Learning Data Mining with R] (https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/1692_Learning%20Data%20mining%20with%20R_cov.jpg)
+![Learning Data Mining with R],http://shop.oreilly.com/product/9781783982103.do, (https://covers.oreillystatic.com/images/9781783982103/cat.gif)
 

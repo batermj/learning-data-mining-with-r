@@ -7,6 +7,9 @@ Codes repository for the book {Learning Data Mining with R}
 
 [The book of this project can be found at the site of Packt Publishing Limited] 
 
+[百度2][2]{:target="_blank"}
+[2]: http://www.baidu.com/   "百度二下"
+
 [Packtpub][2]{:target="_blank"}
 [2]: https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r   "Packtpub"
 

@@ -7,8 +7,8 @@ Codes repository for the book {Learning Data Mining with R}
 
 The book of this project can be found at the site of Packt Publishing Limited
 
-[PacktPub](https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r)
-[O'Reilly](http://shop.oreilly.com/product/9781783982103.do) 
++ [PacktPub](https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r)
++ [O'Reilly](http://shop.oreilly.com/product/9781783982103.do) 
 
 
 
@@ -26,5 +26,4 @@ the file names for the sorce codes are suffixed with *_basic.R, *_beyond1.R, *_b
 
 # Requirements
 
-![Learning Data Mining with R] (https://covers.oreillystatic.com/images/9781783982103/cat.gif)
-
+![Learning Data Mining with R](https://covers.oreillystatic.com/images/9781783982103/cat.gif)
